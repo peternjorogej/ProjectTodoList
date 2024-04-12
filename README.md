@@ -1,4 +1,4 @@
-# ProjectTodoList
+# Project Todo List
 A list of programming projects I would like to do, mostly as a hobby
 
 ### 1. Cutils
